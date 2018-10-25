@@ -11,3 +11,9 @@ puts "Freddy Kruger"
 puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
+
+print "Overall, we have "
+print 11
+puts " great students"
+
+print "line1\nline2\nline3" # has to be in double quotes!
